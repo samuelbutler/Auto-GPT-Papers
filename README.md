@@ -4,7 +4,7 @@ Papers discussed in the Auto-GPT Reading Group
 
 
 
-**The paper for the next reading group meeting will be in the root repo**, as fast way to always find the current paper we will be reading for the next meeting. Papers are added to the repo as they are announced in the Discord by @dschonholtz. 
+**The paper for the next reading group meeting will be in the root repo**, as fast way to always find the current paper we will be reading for the next meeting. Papers are added to the repo as they are announced in the [Discord](discord.gg/autogpt) by `@samdcbu#2399`. 
 
 
 
